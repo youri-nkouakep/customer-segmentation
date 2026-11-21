@@ -1,0 +1,28 @@
+{
+  "bg_nbd": {
+    "r": 0.8256574029795714,
+    "alpha": 69.23140014021958,
+    "a": 0.003922167457250195,
+    "b": 6.652847590802692
+  },
+  "gamma_gamma": {
+    "p": 2.110844560523319,
+    "q": 3.43733863209642,
+    "v": 479.61903583243867
+  },
+  "final_scores": {
+    "silhouette": 0.33683345783890356,
+    "davies_bouldin": 1.012974264344052,
+    "calinski_harabasz": 3299.8620943848505
+  },
+  "cleaning": {
+    "raw_rows": 541909,
+    "after_customer_id": 406829,
+    "after_cancellations": 397924,
+    "after_invalid_qty_price": 397884,
+    "after_duplicates": 392692
+  },
+  "k": 4,
+  "method": "K-means",
+  "horizon_days": 180
+}

@@ -1,0 +1,11 @@
+{
+  "customers": 3362,
+  "holdout_days": 92,
+  "purchases_actual_total": 4510,
+  "purchases_predicted_total": 3387.064174266156,
+  "purchases_mae": 0.9442210593168501,
+  "purchases_corr": 0.7952671607672019,
+  "revenue_actual_total": 2862927.721,
+  "revenue_predicted_total": 1600011.1497719479,
+  "revenue_corr": 0.6609912467915469
+}

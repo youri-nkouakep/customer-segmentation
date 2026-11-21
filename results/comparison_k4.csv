@@ -1,0 +1,4 @@
+method,k,silhouette,davies_bouldin,calinski_harabasz,stability_ari
+K-means,4,0.337,1.013,3299.862,0.935
+CAH (Ward),4,0.297,1.002,2739.208,0.411
+Gaussian mixture,4,0.175,1.705,2162.379,0.957

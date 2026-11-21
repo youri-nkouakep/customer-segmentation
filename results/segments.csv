@@ -1,0 +1,5 @@
+segment,customers,recency,frequency,monetary,revenue,customer_share,revenue_share,clv_total,clv_per_customer,action
+Champions,699,8.0,10.0,3750.4,5727810.03,0.161,0.645,2520179.328,3605.407,"VIP program: early access, referral rewards, no discounts needed"
+Loyal customers,1178,53.5,4.0,1351.815,2137476.653,0.272,0.241,983831.112,835.171,Cross-sell and upsell; loyalty points to move them up to Champions
+Promising newcomers,826,16.0,2.0,480.11,459089.32,0.19,0.052,571376.743,691.739,Onboarding sequence and a second-purchase incentive
+Hibernating,1635,173.0,1.0,296.64,562832.891,0.377,0.063,496821.877,303.867,Low-cost win-back campaign; remove from expensive channels if no response
