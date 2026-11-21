@@ -1,0 +1,14 @@
+# Raw data (download with scripts/download_data.py)
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+
+# Jupyter / IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
