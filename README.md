@@ -2,6 +2,8 @@
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://youri-customer-segmentation.streamlit.app/)
 
+> **Context:** a 2025 master's project at Université Ibn Tofail (Master IA et Objets Connectés). I took it up again and adapted it in 2026 before publishing it here.
+
 RFM segmentation of **541,909 transactions** (UCI Online Retail, 4,338 customers). The project compares **K-means, hierarchical clustering (CAH, Ward) and a Gaussian mixture**, turns the clusters into **4 actionable segments**, and predicts each customer's **6-month value** with **BG/NBD + Gamma-Gamma** models implemented from the original papers. The results are served in a **[live Streamlit dashboard](https://youri-customer-segmentation.streamlit.app/)**.
 
 > **Key results.** K-means with k = 4 is retained: silhouette 0.34, bootstrap stability ARI 0.94, against 0.30 and 0.41 for CAH. The **Champions are 16 % of customers but 64 % of revenue**. Predicted value for the next 6 months is £4.57M, of which £2.52M comes from the Champions.
