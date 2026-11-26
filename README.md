@@ -96,7 +96,7 @@ The dashboard only reads `results/`, so it runs without the raw data.
 
 ## Context and my role
 
-This started as a **group project** in the Master IA et Objets Connectés at Université Ibn Tofail (2026). **I trained and compared the clustering models.**
+This started as a **group project** in the Master IA et Objets Connectés at Université Ibn Tofail (2025). **I trained and compared the clustering models.**
 
 I then rebuilt and extended it :
 - comparison of three methods with stability analysis;
